@@ -1,0 +1,8 @@
+A faculdade precisa ter:
+Cadastros de alunos com: ( email, telefone, endereço, nome, matricula,
+data_nascimento).
+Turma com: ( codigo, curso, periodo, data_inicio, professor).
+Materia com ( nome, codigo, professor responsavel, carga horaria).
+Curso com: ( nome, codigo, descrição, carga horaria,).
+Nota com: ( aluno, materia, turma, data de avaliação).
+Professor com: ( nome, formação, area_atuação, codigo)
